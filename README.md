@@ -8,3 +8,4 @@ Assets used came from:
   
   https://sketchfab.com/Gianluca.Riccio
   
+  https://www.mixamo.com/
